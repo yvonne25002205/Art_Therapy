@@ -1879,7 +1879,7 @@ h1 {
 		background-position: top left, center center;
 	}
 	#h-four {
-		background: url("images/overlay.png"), url("../../images/h-two.jpg");
+		background: url("images/overlay.png"), url("../../images/h-four.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
