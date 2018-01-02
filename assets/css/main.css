@@ -1815,7 +1815,9 @@ h1 {
 		background-position: top left, bottom center;
 		background-repeat:repeat,no-repeat;
 	}
-
+#home-h2{
+	padding-bottom: 35px;
+}
 
 	#intro {
 		background: url("images/overlay.png"), url("../../images/intro.jpg");
