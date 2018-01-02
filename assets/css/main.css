@@ -19,7 +19,7 @@
 		vertical-align: baseline;
 	}
 h1 {
-	font-family: "Mr Bedford" !important;
+	font-family: "Microsoft JhengHei", "Mr Bedford" !important;
 	font-size: 24px;
 	font-style: normal;
 	font-variant: normal;
@@ -470,7 +470,7 @@ h1 {
 /* Type */
 
 	body, input, select {
-		font-family: "Source Sans Pro", "sans-serif" !important;
+		font-family: "Microsoft JhengHei","Source Sans Pro", "sans-serif" !important;
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
