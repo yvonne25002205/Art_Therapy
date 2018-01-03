@@ -473,6 +473,7 @@ h1 {
 	body, input, select {
 		font-family:  'Noto Sans TC',"Source Sans Pro", "sans-serif" !important;
 		font-weight: 300;
+	
 		font-size: 18pt;
 		line-height: 1.75em;
 		color: #39454b;
@@ -514,7 +515,7 @@ h1 {
 
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 900;
+		font-weight: 300;
 		color: inherit;
 		letter-spacing: -0.0325em;
 	}
