@@ -1616,6 +1616,7 @@ h1 {
 		}
 
 			.main.style1 h2 {
+				font-weight:300;
 				font-size: 4.25em;
 				line-height: 1em;
 				font-weight:200;
